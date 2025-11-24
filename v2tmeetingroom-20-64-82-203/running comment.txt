@@ -1,0 +1,1 @@
+running comment: (v2t) azureuser@OISGPUVM-02:~/voice2text_project-02/v2tmeetingroom$ uvicorn mainui:app --host 0.0.0.0 --port 5050 --reload --ssl-keyfile=key.pem --ssl-certfile=cert.pem

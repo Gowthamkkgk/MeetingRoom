@@ -1,0 +1,1 @@
+uvicorn mainui:app --host 0.0.0.0 --port 5091 --reload --ssl-keyfile key.pem --ssl-certfile cert.pem
